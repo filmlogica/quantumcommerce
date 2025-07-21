@@ -1,0 +1,1 @@
+﻿Generate a tutorial that teaches how to securely input payment info on platforms like Stripe, Upwork, and Fiverr. Include step-by-step visuals and scam-proofing tips.

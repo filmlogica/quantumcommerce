@@ -1,0 +1,1 @@
+﻿Generate weekly updates on tracked payouts via PayPal, direct deposit, and mailed checks. Provide motivational cues, progress markers, and total earnings summaries.
