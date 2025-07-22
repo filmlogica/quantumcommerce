@@ -1,0 +1,15 @@
+﻿Generate platform-optimized affiliate ad variants for “Parody Power: Write Like a Satirical Genius.” Target audience includes humorists, meme creators, and satirical writers.
+
+Platforms:
+- Twitter/X: <150 words, clever and punchy
+- Reddit: ~300 words, satire breakdowns or writing tips
+- Medium: ~300 words, structured reflection on parody writing
+- Pinterest/Facebook: ~100 words, caption-style wit and appeal
+
+Guidelines:
+- Use first-person or satirist tone
+- Match platform mood: edgy on Twitter, meta on Reddit, insightful on Medium
+- Include soft CTAs like “This sharpened my satire” or “If you write funny, this is gold”
+- Inject viral-level wit — make readers laugh and think
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

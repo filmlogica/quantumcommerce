@@ -1,0 +1,15 @@
+﻿Generate platform-optimized affiliate ad variants for “The Meme Masterclass.” Target audience includes TikTok creators, Twitter users, and social media marketers.
+
+Platforms:
+- Twitter/X: <150 words, hilarious and punchy, emojis welcome
+- Reddit: ~300 words, meme anecdotes or humor breakdowns
+- Medium: ~300 words, structured reflection on meme virality
+- Pinterest/Facebook: ~100 words, caption-style humor and appeal
+
+Guidelines:
+- Use first-person or creator tone
+- Match platform mood: viral humor on Twitter, meta-humor on Reddit, insightful on Medium
+- Include soft CTAs like “This made my memes explode” or “If you post, you need this”
+- Inject viral-level humor — make readers laugh out loud
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

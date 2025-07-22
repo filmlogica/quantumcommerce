@@ -1,0 +1,10 @@
+﻿Generate an HTML snippet for the product page “The Meme Masterclass” hosted on QuantumCommerce. The content should:
+
+- Start with a bold, playful headline about viral meme creation.
+- Include a short intro paragraph for creators on TikTok, Twitter, and Instagram.
+- List 3–5 benefits in bullet points using <ul><li> (e.g. humor tactics, emotional punch).
+- Include one short testimonial in <em>.
+- End with a CTA like “Start Memeing” using <a>.
+- Use <section>, <hr>, or <div class="highlight"> for structure.
+- Tone should be witty, energetic, and culturally aware.
+- Output HTML only, ready for CSS-wrapped product page.

@@ -1,0 +1,10 @@
+﻿Generate an HTML snippet for the product page “Passive Income Starter Pack” hosted on QuantumCommerce. The content should:
+
+- Begin with a headline focused on financial freedom and automation.
+- Include a short intro paragraph for side hustlers and digital entrepreneurs.
+- List 3–5 benefits in bullet points using <ul><li> (e.g. monetization tactics, automation tips).
+- Include one short testimonial in <em>.
+- End with a CTA like “Start Earning Passively” using <a>.
+- Use <section>, <hr>, or <div class="highlight"> for structure.
+- Tone should be empowering, practical, and optimistic.
+- Output HTML only, ready for CSS-wrapped product page.

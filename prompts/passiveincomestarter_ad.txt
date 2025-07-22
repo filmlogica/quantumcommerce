@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “Passive Income Starter Pack.” Target audience includes side hustlers, freelancers, and digital nomads.
+
+Platforms:
+- Twitter/X: <150 words, empowering and punchy
+- Reddit: ~300 words, passive income stories or tips
+- Medium: ~300 words, structured reflection on monetization
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person or entrepreneurial tone
+- Match platform mood: bold on Twitter, practical on Reddit, strategic on Medium
+- Include soft CTAs like “This kickstarted my side hustle” or “If you want freedom, start here”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

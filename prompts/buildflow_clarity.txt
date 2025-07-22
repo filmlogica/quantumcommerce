@@ -1,0 +1,10 @@
+﻿Generate an HTML snippet for the product page “BuildFlow: Project Clarity Toolkit” hosted on QuantumCommerce. The content should:
+
+- Start with a clean, motivating headline focused on clarity and launch precision.
+- Include a short intro paragraph for solopreneurs and small teams.
+- List 3–5 benefits in bullet points using <ul><li> (e.g. templates, AI checklists).
+- Include one short testimonial in <em>.
+- End with a CTA like “Launch with Clarity” using <a>.
+- Use <section>, <hr>, or <div class="highlight"> for structure.
+- Tone should be inspiring, efficient, and modern.
+- Output HTML only, ready for CSS-wrapped product page.

@@ -1,0 +1,10 @@
+﻿Generate a compelling HTML snippet for the product page titled “The Gospel of Jesus Christ” hosted on QuantumCommerce. The content should:
+
+- Begin with a bold, emotionally resonant headline.
+- Include a short intro paragraph that speaks to brokenness, hope, and transformation.
+- List 3–5 key spiritual truths or benefits in bullet points using <ul><li>.
+- Include one short testimonial in italic using <em>.
+- End with a call-to-action button like “Discover the Gospel” using <a>.
+- Use <section>, <hr>, or <div class="highlight"> for visual structure.
+- Keep tone passionate, urgent, and uplifting — not preachy.
+- Output HTML only, ready for CSS-wrapped product page.

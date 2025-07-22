@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “LessonBoost AI: Smart Planning for Teachers.” Target audience includes educators, tutors, and academic planners.
+
+Platforms:
+- Twitter/X: <150 words, helpful and upbeat
+- Reddit: ~300 words, teacher testimonial or planning tips
+- Medium: ~300 words, structured reflection on lesson planning
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person voice or educator tone
+- Match platform mood: supportive on Facebook, practical on Reddit, polished on Medium
+- Include soft CTAs like “This saved me hours” or “If you teach, you need this”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

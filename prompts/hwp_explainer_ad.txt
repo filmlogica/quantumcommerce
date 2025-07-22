@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “The Health, Wealth and Prosperity Gospel – Explainer Document.” Target audience includes theologians, pastors, and spiritually curious readers.
+
+Platforms:
+- Twitter/X: <150 words, reflective, scriptural, emojis optional
+- Reddit: ~300 words, theological discussion, informal but respectful
+- Medium: ~300 words, structured critique with biblical references
+- Facebook/Pinterest: ~100 words, clear and thoughtful
+
+Guidelines:
+- Use first-person or reflective voice
+- Match platform mood: reverent on Medium, curious on Reddit, bold on Twitter
+- Include soft CTAs like “This challenged my beliefs” or “Worth reading if you’ve ever questioned prosperity preaching”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

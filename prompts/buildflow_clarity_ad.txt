@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “BuildFlow: Project Clarity Toolkit.” Target audience includes solopreneurs, indie creators, and productivity seekers.
+
+Platforms:
+- Twitter/X: <150 words, punchy, emojis welcome
+- Reddit: ~300 words, personal launch story, informal
+- Medium: ~300 words, structured reflection on workflow clarity
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person voice and organic phrasing
+- Match platform mood: witty on Twitter, practical on Reddit, polished on Medium
+- Include soft CTAs like “This toolkit changed my launch game” or “Worth a look if you’re stuck in setup hell”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

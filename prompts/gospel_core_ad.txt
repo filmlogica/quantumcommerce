@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “The Gospel of Jesus Christ.” Target audience includes seekers, spiritual explorers, and those facing emotional hardship.
+
+Platforms:
+- Twitter/X: <150 words, emotional punch, emojis welcome
+- Reddit: ~300 words, personal testimony, informal but sincere
+- Medium: ~300 words, structured reflection on transformation
+- Facebook/Pinterest: ~100 words, caption-style clarity and hope
+
+Guidelines:
+- Use first-person voice and organic phrasing
+- Inject platform mood: reverent on Medium, raw honesty on Reddit, viral hope on Twitter
+- Include soft CTAs like “This changed everything for me” or “Worth a read if you’re hurting”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

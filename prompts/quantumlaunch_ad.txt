@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “QuantumCommerce Launch Lab.” Target audience includes affiliate marketers, growth hackers, and digital creators.
+
+Platforms:
+- Twitter/X: <150 words, strategic and punchy
+- Reddit: ~300 words, launch stories or tips
+- Medium: ~300 words, structured reflection on affiliate strategy
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person or marketer tone
+- Match platform mood: bold on Twitter, tactical on Reddit, polished on Medium
+- Include soft CTAs like “This leveled up my affiliate game” or “If you launch, launch smart”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

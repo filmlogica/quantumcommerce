@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “DealCloser Script Studio.” Target audience includes real estate agents, sales professionals, and closers.
+
+Platforms:
+- Twitter/X: <150 words, confident and punchy
+- Reddit: ~300 words, sales anecdotes or tips
+- Medium: ~300 words, structured reflection on persuasion tactics
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person or sales pro tone
+- Match platform mood: bold on Twitter, strategic on Medium, practical on Reddit
+- Include soft CTAs like “This script flipped my last deal” or “If you sell, this is gold”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

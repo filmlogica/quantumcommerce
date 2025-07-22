@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “What Is a Cult and How Dangerous Is It?” Target audience includes psychology students, survivors, and curious readers.
+
+Platforms:
+- Twitter/X: <150 words, punchy, cautionary tone
+- Reddit: ~300 words, personal or academic insight, informal
+- Medium: ~300 words, structured deep dive
+- Facebook/Pinterest: ~100 words, clear and empathetic
+
+Guidelines:
+- Use first-person or expert-style voice
+- Match platform mood: serious on Medium, raw on Reddit, alert-style on Twitter
+- Include soft CTAs like “This opened my eyes” or “If you’ve ever felt trapped…”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

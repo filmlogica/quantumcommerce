@@ -1,0 +1,14 @@
+﻿Generate platform-optimized affiliate ad variants for “Safe Payment Setup Guide.” Target audience includes freelancers, remote workers, and online buyers.
+
+Platforms:
+- Twitter/X: <150 words, helpful and alert
+- Reddit: ~300 words, payment horror stories or tips
+- Medium: ~300 words, structured tutorial-style reflection
+- Pinterest/Facebook: ~100 words, caption-style clarity and appeal
+
+Guidelines:
+- Use first-person or guide-style tone
+- Match platform mood: cautionary on Reddit, helpful on Facebook, polished on Medium
+- Include soft CTAs like “This saved me from a scam” or “If you freelance, read this”
+- Vary phrasing across outputs (rotation logic)
+- Return JSON format with platform, persona, char_count, and ad_text

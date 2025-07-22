@@ -1,0 +1,10 @@
+﻿Generate an HTML snippet for the product page “DealCloser Script Studio” hosted on QuantumCommerce. The content should:
+
+- Start with a headline focused on persuasion and closing deals.
+- Include a short intro paragraph for real estate agents and sales pros.
+- List 3–5 benefits in bullet points using <ul><li> (e.g. phrases, flow charts).
+- Include one short testimonial in <em>.
+- End with a CTA like “Close More Deals” using <a>.
+- Use <section>, <hr>, or <div class="highlight"> for structure.
+- Tone should be confident, results-driven, and professional.
+- Output HTML only, ready for CSS-wrapped product page.
