@@ -3,3 +3,4 @@ Taking product descriptions contained between <PROD> and </PROD> tags, and writi
 Inserting your responses into .json files.
 Format the content to be inserted into a CSS template that CodeLlama has made.
 Making short ad posts for various social media platforms, obtained advertising
+Overwriting the contents of exisitng .json files whenever the product description requires it.
