@@ -1,0 +1,64 @@
+/* Global styles */
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #242424; /* Dark header */
+  color: #fff;
+  text-align: center;
+}
+
+/* Header */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 56px; /* Height of the header */
+  background-color: #242424;
+  color: #fff;
+  line-height: 56px;
+}
+
+/* Content section */
+.content {
+  margin: 0 auto;
+  padding: 20px;
+  width: 80%; /* Width of the content area */
+  background-color: #fff;
+  border-radius: 10px; /* Rounded corners for the content section */
+}
+
+/* Product image */
+.product-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Product title and description */
+.product-title,
+.product-description {
+  text-align: center;
+}
+
+.product-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.product-description {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 768px) {
+  .content {
+    width: 90%; /* Width of the content area on small screens */
+  
