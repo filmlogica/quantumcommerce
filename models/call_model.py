@@ -1,3 +1,0 @@
-﻿from models import call_model
-...
-content = call_model("mistral", prompt)
